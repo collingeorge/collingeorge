@@ -1,6 +1,6 @@
 ## Collin George
 
-Policy analysis, compliance architecture, and translational medical research. Preparing for medical school (2026).
+Policy analysis, compliance architecture, and translational medical research. Preparing for medical school.
 
 Independent, open-source research and systems development spanning public policy, compliance frameworks, and applied biomedical analysis.
 
