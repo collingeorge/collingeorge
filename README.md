@@ -1,16 +1,21 @@
-## Hi there 👋
+## Collin George
 
-<!--
-**collingeorge/collingeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Policy analysis, compliance architecture, and translational medical research. Preparing for medical school (2026).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Work
+
+- Open-source policy research (WP-2026) — sanctions, financial intelligence, competitive statecraft  
+- Cybersecurity and system hardening (Linux, infrastructure integrity)  
+- Clinical reasoning and critical care physiology (ICU-focused portfolio)  
+- Translational biomedical research (GBM mRNA framework, anesthesia strategy)  
+
+---
+
+### Affiliation
+
+University of Washington  
+Redmond, WA  
+
+ORCID: https://orcid.org/0009-0007-8162-6839
