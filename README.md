@@ -1,23 +1,19 @@
 ## Collin George
 
-Policy analysis, compliance architecture, and translational medical research. Preparing for medical school.
+Independent cybersecurity and compliance consultant. Perioperative and translational medicine researcher.
 
-Independent, open-source research and systems development spanning public policy, compliance frameworks, and applied biomedical analysis.
-
----
-
-### Core Workstreams
-
-- Open-source policy research ([WP-2026](https://github.com/collingeorge/WP-2026)) — sanctions, financial intelligence, competitive statecraft (60+ document corpus)  
-- Cybersecurity and system hardening ([Ubuntu Security Audit](https://github.com/collingeorge/ubuntu-workstation-security-audit))  
-- Clinical reasoning and critical care physiology ([ICU Portfolio](https://github.com/collingeorge/Premedical-Educational-Portfolio-Critical-Care-Physiology))  
-- Translational biomedical research ([GBM mRNA Framework](https://github.com/collingeorge/gbm-hybrid-mrna-framework))
+CISSP · B.A.S. Cybersecurity (Summa Cum Laude) · Graduate coursework, Intelligence Analysis (JHU) & Security Studies (UCF)  
+Clinical Laboratory Technician, University of Washington Medical Center
 
 ---
 
-### Affiliation
+### Active Work
 
-University of Washington  
-Redmond, WA  
+- **Compliance & policy:** CMMC/NIST 800-171 readiness, ITAR/EAR classification, OFAC sanctions architecture — [WP-2026](https://github.com/collingeorge/WP-2026) (67-document open-source research corpus)
+- **Cybersecurity:** System hardening, liveness detection, workstation audit tooling — [ubuntu-workstation-security-audit](https://github.com/collingeorge/ubuntu-workstation-security-audit) · [howdy-liveness](https://github.com/collingeorge/howdy-liveness)
+- **Perioperative research:** Scoping reviews on TKA analgesia and breast reconstruction pain management; PECS II meta-analysis in progress — [tka-perioperative-review](https://github.com/collingeorge/tka-perioperative-review) · [Breast-Reconstruction-Analgesia-Review](https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review)
 
-ORCID: https://orcid.org/0009-0007-8162-6839
+---
+
+University of Washington · Redmond, WA  
+ORCID: [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)
