@@ -12,5 +12,5 @@ Independent cybersecurity and compliance consultant focused on secure systems, r
 
 ---
 
-University of Washington Medical Center · Seattle, WA 
+University of Washington Medical Center · Seattle, WA  
 ORCID: [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)
