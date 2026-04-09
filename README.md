@@ -2,7 +2,7 @@
 
 Independent cybersecurity and compliance consultant focused on secure systems, regulated environments, and translational clinical research.
 
-- CISSP · B.A.S. Cybersecurity (Summa Cum Laude) · Graduate-level coursework in Intelligence Analysis (JHU) and Security Studies (UCF)
+- CISSP · B.A.S. Cybersecurity (Summa Cum Laude) · Graduate study in Intelligence Analysis (JHU) and Security Studies (UCF)
 - Clinical Laboratory Technician, University of Washington Medical Center
 
 ## Active Work
@@ -12,5 +12,5 @@ Independent cybersecurity and compliance consultant focused on secure systems, r
 
 ---
 
-University of Washington · Redmond, WA  
+University of Washington Medical Center · Seattle, WA 
 ORCID: [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)
