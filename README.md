@@ -1,6 +1,6 @@
 # Collin B. George, CISSP
 
-Principal of Sanctir LLC, an independent research and advisory practice in national security compliance, cybersecurity, export controls, and sanctions. Author of the WP-2026 open-source research series.
+Principal of Sanctir LLC, an independent research and advisory practice in national security compliance, cybersecurity, export controls, and sanctions. Author of the WP-2026 open-source research series. He also maintains a separate clinical research track in perioperative medicine and computational oncology.
 
 - CISSP · B.A.S. Cybersecurity (Summa Cum Laude) · Graduate coursework in intelligence analysis (Johns Hopkins) and security studies (UCF)
 
